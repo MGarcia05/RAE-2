@@ -23,6 +23,8 @@ body {
     background-color: white;
     color: black;
     font-family: $body-font;
+    position: fixed;
+    
 }
 
 /* ============================================= */
@@ -232,8 +234,12 @@ img {
         display: none;
     }
 
-    .btns {
-        margin-top: -60px;
+    // .btns {
+    //     //margin-top: -60px;
+    // }
+
+    .proudbtn {
+        margin-top: 80px;
     }
     
 }

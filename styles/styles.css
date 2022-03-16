@@ -15,6 +15,7 @@ body {
   background-color: white;
   color: black;
   font-family: "Caudex", serif;
+  position: fixed;
 }
 
 /* ============================================= */
@@ -254,8 +255,8 @@ img {
   img {
     display: none;
   }
-  .btns {
-    margin-top: -60px;
+  .proudbtn {
+    margin-top: 80px;
   }
 }
 
