@@ -211,7 +211,7 @@ h2 {
   -webkit-box-direction: normal;
       -ms-flex-direction: row;
           flex-direction: row;
-  margin-bottom: -10px;
+  margin-bottom: 10px;
 }
 
 img {
@@ -235,7 +235,7 @@ img {
   color: white;
   text-align: center;
   font-family: "Caudex", serif;
-  font-size: 100%;
+  font-size: 110%;
   padding: 1px 2px 1px 2px;
 }
 
