@@ -144,6 +144,7 @@ a:visited {
   -webkit-box-pack: left;
       -ms-flex-pack: left;
           justify-content: left;
+  margin-top: 20px;
 }
 
 .mobile-menu li {
@@ -166,7 +167,7 @@ h2 {
 .main p {
   margin: 0 30px 10px 30px;
   font-size: 5vw;
-  padding-bottom: 100px;
+  padding-bottom: 60px;
 }
 
 .servUL {
