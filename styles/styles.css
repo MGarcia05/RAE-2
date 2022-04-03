@@ -271,6 +271,9 @@ img {
   img {
     display: none;
   }
+  .btns {
+    display: none;
+  }
   .proudbtn {
     margin-top: 80px;
   }
