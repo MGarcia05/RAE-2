@@ -15,7 +15,12 @@ body {
   background-color: white;
   color: black;
   font-family: "Caudex", serif;
-  position: fixed;
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+
+.lock-scroll {
+  overflow: hidden;
 }
 
 /* ============================================= */
@@ -549,9 +554,10 @@ img {
     margin-left: 1150px;
     position: absolute;
     z-index: 1;
+    overflow: hidden;
   }
   .container {
-    overflow: hidden;
+    overflow-: hidden;
   }
   .bg {
     width: 200%;

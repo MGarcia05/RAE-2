@@ -24,8 +24,19 @@ body {
     background-color: white;
     color: black;
     font-family: $body-font;
-    position: fixed;
+    // position: fixed;
+    overflow-x: hidden;
+    overflow-y: scroll;
     
+}
+
+// .fixed-position {
+//     position: fixed;
+//  }
+
+
+.lock-scroll {
+    overflow: hidden;
 }
 
 /* ============================================= */
@@ -575,11 +586,12 @@ img {
         margin-left: 1150px;
         position: absolute;
         z-index: 1;
+        overflow: hidden;
       }
 
 
     .container {
-        overflow: hidden;
+        overflow-: hidden;
       }
       
       .bg {
