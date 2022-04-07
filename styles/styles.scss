@@ -436,6 +436,10 @@ img {
         margin-bottom: -50px;
     }
 
+    .story {
+        font-size: 11vw;;
+    }
+
     /* ============================================= */
     /*                     Imgs                      */
     /* ============================================= */
@@ -596,7 +600,7 @@ img {
 
 
     .container {
-        overflow-: hidden;
+        overflow: hidden;
       }
       
       .bg {
@@ -686,8 +690,8 @@ img {
         font-size: 130%;
     }
 
-    .story p {
-        font-size: 120%;
+    .story {
+        font-size: 100%;
     }
 
 

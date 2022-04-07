@@ -434,6 +434,9 @@ img {
     font-size: 2vw;
     margin-bottom: -50px;
   }
+  .story {
+    font-size: 11vw;
+  }
   /* ============================================= */
   /*                     Imgs                      */
   /* ============================================= */
@@ -564,7 +567,7 @@ img {
     overflow: hidden;
   }
   .container {
-    overflow-: hidden;
+    overflow: hidden;
   }
   .bg {
     width: 200%;
@@ -619,8 +622,8 @@ img {
   .main p {
     font-size: 130%;
   }
-  .story p {
-    font-size: 120%;
+  .story {
+    font-size: 100%;
   }
   .flex-child3 {
     -webkit-box-flex: 1;
